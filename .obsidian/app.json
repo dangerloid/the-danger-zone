@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "en-US"
+  ],
+  "promptDelete": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "6 assets",
+  "alwaysUpdateLinks": true
+}
