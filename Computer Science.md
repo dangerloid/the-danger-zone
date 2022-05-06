@@ -8,3 +8,4 @@ tags: moc
 [[Web Development]]
 [[Software Engineering]]
 [[Data Science]]
+[[LaTeX]]

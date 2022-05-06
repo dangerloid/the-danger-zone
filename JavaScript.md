@@ -16,6 +16,7 @@ extensions: js
 [[JS Arrays]]
 [[JS Functions]]
 [[JS Data Comparison]]
+[[JS Switch Statements]]
 
 ### references
 

@@ -10,7 +10,7 @@ tags: moc
 [[Literature]] | [[Cinema]] | [[Music]] | [[Gaming]] | [[Illustration]] | [[Graphic Design]]
 
 ## science
-[[Computer Science]] | [[Psychology]] | [[Statistics]] | [[Information Science]]
+[[Computer Science]] | [[Psychology]] | [[Statistics]] | [[Information Science]] | [[Mathematics]]
 
 ## social sciences
 

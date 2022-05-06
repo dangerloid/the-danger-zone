@@ -7,7 +7,7 @@ tags: study
 
 Variables can store data dynamically (not exclusive to JavaScript. Most if not all programming languages have them).
 
-The value of a variable can be any of the eight [[JS Data Types]], but it's common to set it to a [[String]].
+The value of a variable can be any of the eight [[JS Data Types]], but it's common to set it to a [[JS String]].
 
 ## assigning a variable
 

@@ -12,8 +12,8 @@ task brain dump
 
 ---
 
-### embryonic
+### seed
 
-### cells formed
+### budding
 
-### birthed
+### evergreen

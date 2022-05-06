@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "93f41c9a3d819ae5",
+        "id": "507789888ff13bcf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How I Put My Mind Under Version Control.md",
-            "mode": "source",
+            "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How I Put My Mind Under Version Control.md",
+                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How I Put My Mind Under Version Control.md"
+                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How I Put My Mind Under Version Control.md",
+                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93f41c9a3d819ae5",
+  "active": "507789888ff13bcf",
   "lastOpenFiles": [
-    "How I Put My Mind Under Version Control.md",
+    "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
     "001 Interests.md",
     "000 Index.md",
-    "Web Development.md",
     "004 People.md",
-    "002 Projects.md",
-    "Knowledge Bases.md",
-    "Note Taking.md",
-    "1  dailies/2022-04-25.md",
-    "Constructed Languages.md"
+    "The Sweet Setup.md",
+    "JS Functions.md",
+    "JavaScript.md",
+    "JS Switch Statements.md",
+    "1  dailies/2022-05-06.md",
+    "Web Development.md"
   ]
 }

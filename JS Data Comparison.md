@@ -76,7 +76,7 @@ function testStrictNotEqual(val) {
 
 ## greater than operator `>`
 
-The greater than operator compares the value of two [[Number|numbers]]. If the number to the left is greater than the number to the right, it returns `true`.
+The greater than operator compares the value of two [[JS Number|numbers]]. If the number to the left is greater than the number to the right, it returns `true`.
 
 Example:
 
@@ -162,22 +162,6 @@ if (val < 10 || val > 20) {
 	return "Outside";
 }
 return "Inside";
-```
-
-## `else` statements
-
-When a condition for an `if` statement is true, the block of code following it is executed, while when it's not, nothing happens. With an `else` statement, an alternate block of code can be run.
-
-```js
-function testElse(val) {
-	let result = "";
-	if (val > 5) {
-		result = "Bigger than 5";
-	} else {
-		result = "5 or Smaller";
-	}
-	return result;
-}
 ```
 
 #### related notes

@@ -13,3 +13,4 @@ tags: moc
 [[Evergreen Notes]]
 [[LYT Kit v5]]
 [[Obsidian]]
+[[LaTeX]]

@@ -6,13 +6,13 @@ tags: study
 # Data Types
 
 There are eight different data types:
-1. [[Undefined]]
-2. [[Null]]
-3. [[Boolean]]
-4. [[String]]
-5. [[Symbol]]
-6. [[Number]]
-7. [[Object]]
+1. [[JS Undefined]]
+2. [[JS Null]]
+3. [[JS Boolean]]
+4. [[JS String]]
+5. [[JS Symbol]]
+6. [[JS Number]]
+7. [[JS Object]]
 8. [[BigInt]]
 
 They can be used to assign a value to [[JS Variables]].

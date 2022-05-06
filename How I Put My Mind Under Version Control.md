@@ -1,5 +1,5 @@
 ---
-tags: seed 
+tags: seed article/blog
 ---
 
 author: [[Bryan Jenks]]
@@ -17,3 +17,4 @@ source: [How I Put My Mind Under Version Control](https://medium.com/analytics-v
 - the .gitignore file:
 	- .trash/
 	- .obsidian/cache
+- push current vault
