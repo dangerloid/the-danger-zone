@@ -24,6 +24,11 @@
       "type": "file",
       "title": "Web Development",
       "path": "Web Development.md"
+    },
+    {
+      "type": "file",
+      "title": "JavaScript",
+      "path": "JavaScript.md"
     }
   ]
 }

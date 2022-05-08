@@ -1,6 +1,7 @@
 ---
-aliases: latex, .tex
+aliases: latex
 tags: moc
+extensions: tex, bib
 ---
 [[Note Taking]], [[Computer Science]], [[Mathematics]]
 # LaTeX MOC

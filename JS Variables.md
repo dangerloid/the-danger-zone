@@ -52,3 +52,14 @@ FAV_PET = "Dogs";
 This will output an error.
 
 Best practice recommends writing the constant's name in uppercase, with each word separated by an underscore.
+
+## compare scopes of the `var` and `let` keywords
+When you declare a variable with the `var` keyword, it is declared globally, or locally if inside a function.
+
+The `let` keyword behaves similarly, but has some differences.
+When you declare a variable with `let` inside a block, statement or expression, its scope is limited to that block, statement or expression.
+
+## mutate an array declared with `const`
+Some developers prefer to assign all their variables using `const` by default, unless they know they're gonna reassign the value.
+
+It's important to know that objects assigned to a variable using `const` are still mutable ([[JS Object|we've seen that]]). Using `const` only prevents reassignment of the variable identifier.

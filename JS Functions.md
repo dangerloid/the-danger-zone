@@ -354,42 +354,130 @@ function abTest(a, b) {
 abTest(2,2); // returns 8, not that it matters
 ```
 
-## counting cards (fcc exercise)
-In the game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high and low cards remaining in the deck. This is called **card counting**.
+## use arrow functions to write concise anonymous functions
+In JavaScript we don't always need to name our functions, especially when passing a function as an argument to another function.
+Instead we can write inline functions. They don't need to be named because we don't need to reuse them.
 
-Having more high cards remaining in the deck favors the player. Each card is assigned a value. When the count is positive, the player should bet high. When the count is 0 or negative, they should bet low.
+Syntax:
 
 ```js
-let count = 0;
+const myFunc = function() {
+	const myVar = "value";
+	return myVar;
+}
+```
 
-function cc(card) {
-	switch(card) {
-		case 2:
-		case 3:
-		case 4:
-		case 5:
-		case 6:
-			count++;
-			break;
-		case 10:
-		case 'J':
-		case 'Q':
-		case 'K':
-		case 'A':
-			count--;
-			break;
-	}
+ES6 provides arrow function syntax, which makes for cleaner code and less redundancy. So the function above will be:
 
-	var holdbet = 'Hold'
-	if (count > 0) {
-		holdbet = 'Bet'
-	}
-	return count + " " + holdbet;
+```js
+const myFunc = () => {
+	const myVar = "value";
+	return myVar;
+}
+```
 
+When there's no function body, like just returning a value, it can be even more streamlined:
+
+```js
+const myFunc = () => "value";
+```
+
+## write arrow functions with parameters
+Arrow functions are just like regular functions, and they do take parameters.
+If an arrow function has a single parameter, the parentheses are omitted.
+
+Exercise: rewrite the following function which appends the contents of `arr2` to `arr1` so that the function uses arrow function syntax.
+
+```js
+// example func
+var myConcat = function(arr1, arr2) {
+	return arr1.concat(arr2);
 }
 
-cc(2); cc(3); cc(7); cc('K'); cc('A');
-console.log(cc(4));
+// my solution
+const myConcat = (arr1, arr2) => arr1.concat(arr2);
+```
+## write higher order arrow functions
+Arrow functions work well with higher order functions like, `map`, `filter` and `reduce`.
+They take functions as arguments for processing collections of data.
+Whenever a function takes another function as an argument, it's recommended to use an arrow function.
+
+Exercise: update the `squareList` function to compute the square of only the positive integers in the array.
+```js
+const realNumberArray = [4, 5.6, -9.8, 3.14, 42, 6, 8.34, -2];
+
+const squareList = (arr) => {
+	const squaredIntegers = arr.filter(num => Number.isInteger(num) && num > 0).map(x => x * x); 
+	return squaredIntegers;
+}
+
+const squaredIntegers = squareList(realNumberArray);
+```
+
+## set default parameters for your functions
+ES6 introduced default parameters for functions for flexibility.
+
+Example:
+
+```js
+const greeting = (name = "Anonymous") => "Hello" + name;
+```
+
+The default parameter kicks in when the argument is not specified when the function is called.
+
+Exercise: modify the function `increment` by adding default parameters so that it will add 1 to `number` if `value` is not specified.
+
+```js
+const increment = (number, value = 1) => number + value;
+```
+
+## use the rest parameter with function parameters
+The rest parameter (`...`), like default parameters, were introduced in ES6 for flexibility's sake.
+With them, you can create functions that take a variable number of arguments. They are then stored in an array that can be accessed later from the function.
+
+Exercise: modify the function `sum` using the rest parameter
+in such a way that the function `sum` is able to take any number of arguments and return their sum.
+
+```js
+const sum = (...args) => {
+	return args.reduce((a, b) => a + b, 0);
+}
+```
+
+## write concise declarative functions
+When defining a function prior to ES6, we had the `function` keyword.
+
+```js
+const person = {
+	name: "Taylor",
+	sayHello: function() {
+		return `Hello! My name is ${this.name}.`;
+	}
+};
+```
+
+With ES6. you can remove the `function` keyword and color when defining functions in objects.
+
+```js
+const person = {
+	name: "Taylor",
+	sayHello() {
+		return `Hello! My name is ${this.name}.`;
+	}
+};
+```
+
+Exercise: refactor the function `setGear` inside the object `bicycle` to use shorthand syntax described above.
+
+```js
+const bicycle = {
+	gear: 2,
+	setGear(newGear) {
+		this.gear = newGear;
+	}
+};
+
+bicycle.setGear(3);
 ```
 
 #### related notes

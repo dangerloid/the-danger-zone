@@ -9,7 +9,7 @@
     "it",
     "en-US"
   ],
-  "promptDelete": true,
+  "promptDelete": false,
   "foldIndent": true,
   "showFrontmatter": false,
   "showUnsupportedFiles": true,

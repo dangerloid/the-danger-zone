@@ -1,5 +1,5 @@
 ---
-tags: seed 
+tags: seed/article/note
 ---
 
 author: [[Nick Milo]]

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Methods]]
 # console.log()
 
 console.log() allows you to see things in the console.

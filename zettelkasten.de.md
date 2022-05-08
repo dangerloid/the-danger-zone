@@ -1,5 +1,5 @@
 ---
-aliases: Sascha
+aliases:
 ---
 
 [[004 People|People]]

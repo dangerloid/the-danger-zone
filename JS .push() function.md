@@ -2,7 +2,7 @@
 aliases: .push()
 tags: study
 ---
-[[JS Arrays]]
+[[JS Methods]], [[JS Arrays]]
 # JS .push() function
 
 You can have pinned data to the end of an array with `.push()`.

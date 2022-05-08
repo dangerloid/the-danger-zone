@@ -154,3 +154,58 @@ myStr[0] = "J";
 ```
 
 This code won't change `myStr`'s value to `"Job"`. To do that, you need to reassign the value to the variable.
+
+## create strings using template literals
+ES6 introduced template literals. They're a type of string that makes creating complex strings easier.
+
+Template literals allow you to create multi-line string and to use string interpolation.
+
+Example:
+
+```js
+const person = {
+	name: "Zodiac Hasbro",
+	age: 56
+};
+
+const greeting = `Hello, my name is ${person.name}!
+I am ${person.age} years old.`;
+```
+
+There are some things to consider:
+- the example uses backticks, not quotes, to wrap the string
+- the string is multi-line, both in code and in output. No need to insert `\n` anymore!
+- the `${variable}` syntax is a placeholder. Concatenation isn't necessary. To add a variable string, you just use a dollar sign in front of curly brackets.
+	- you can also include expressions in a string literal: `${a + b}`
+
+Exercise: use template literal syntax with backticks to create an array of list element (`li`) strings. Each list element's text should be one of the array elements from the `failure` property on the `result` object and have a `class` attribute with the value of `text-warning`. The `makeList` function should return the array of list item strings.
+Use an iterator method to get the desired output:
+
+```js
+// output
+[
+	'<li class="text-warning">no-var</li>',
+	'<li class="text-warning">var-on-top</li>',
+	'<li class="text-warning">linebreak</li>'
+]
+```
+
+```js
+// exercise proper
+
+const result = {
+	success: ["max-length", "no-amd", "prefer-arrow-functions"].
+	failure: ["no-var", "var-on-top", "linebreak"],
+	skipped: ["no-extra-semi", "no-dup-keys"]
+};
+
+function makeList(arr) {
+	const failureItems = [];
+	for (let i = 0; i < arr.length; i++) {
+		failureItems.push(`<li class="text-warning">${arr[i]}</li>`)
+	}
+	return failureItems;
+}
+
+const failuresList = makeList(result.failure);
+```

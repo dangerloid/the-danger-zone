@@ -1,5 +1,5 @@
 ---
-tags: seed 
+tags: seed/article/blog
 ---
 
 author: [[The Sweet Setup|Mike Schmitz]]

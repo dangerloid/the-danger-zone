@@ -2,7 +2,7 @@
 tags: seed/article/blog 
 ---
 
-author: [[zettelkasten.de|Sascha]]
+author: Sascha from [[zettelkasten.de]]
 topics: [[Zettelkasten method]], [[Niklas Luhmann]]
 source: [Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/)
 

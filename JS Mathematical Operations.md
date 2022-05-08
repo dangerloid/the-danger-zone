@@ -133,3 +133,38 @@ compMulti *= 5; // output will be 25
 var compDiv = 48
 compDiv /= 12;
 ```
+
+## conditional (ternary) operator
+The conditional operator can be used as a one line if-else expression.
+
+The syntax is `a ? b : c`, where `a` is the condition, `b` is the code to run when the condition is `true` and `c` is the code to run when the condition is `false`.
+
+Exercise: use the conditional operator in the `checkEqual` function to check if two numbers are equal or not. The function should return either the string `Equal` or `Not Equal`.
+
+```js
+function checksEqual(a, b) {
+	return a === b ? "Equal" : "Not Equal";
+}
+```
+
+### multiple conditional operators
+This function uses an `if`/`else if`/`else` structure with conditional operators:
+
+```js
+function findGreaterOrEqual(a, b) {
+	return (a === b) ? "a and b are equal"
+		: (a > b) ? "a is greater"
+		: "b is greater";
+}
+```
+It's considered good practice to write every condition on a separate line.
+
+Exercise: in the `checkSign` function, use multiple conditional operators to check if a number is positive, negative or zero.
+
+```js
+function checkSign(num) {
+	return (num > 0) ? "positive"
+		 : (num < 0) ? "negative"
+		 : "zero";
+}
+```

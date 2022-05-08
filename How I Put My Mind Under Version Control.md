@@ -1,5 +1,5 @@
 ---
-tags: seed article/blog
+tags: seed/article/blog
 ---
 
 author: [[Bryan Jenks]]

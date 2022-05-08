@@ -2,7 +2,7 @@
 aliases: .pop()
 tags: study
 ---
-[[JS Arrays]]
+[[JS Methods]], [[JS Arrays]]
 # JS .pop() function
 
 You can remove data from the end of an array with `.pop()`.

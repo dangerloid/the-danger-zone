@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "507789888ff13bcf",
+        "id": "548e409e4b87e2f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
+            "file": "JS Promises.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#evergreen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
+                "file": "JS Promises.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md"
+                "file": "JS Promises.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
+                "file": "JS Promises.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "507789888ff13bcf",
+  "active": "548e409e4b87e2f7",
   "lastOpenFiles": [
-    "PKM Primer - An Introduction to Personal Knowledge Management for Creatives.md",
-    "001 Interests.md",
-    "000 Index.md",
-    "004 People.md",
-    "The Sweet Setup.md",
-    "JS Functions.md",
+    "JS Promises.md",
     "JavaScript.md",
+    "JS Import and Export.md",
+    "JS Methods.md",
+    "JS Iteration.md",
     "JS Switch Statements.md",
-    "1  dailies/2022-05-06.md",
-    "Web Development.md"
+    "JS Data Comparison.md",
+    "JS Functions.md",
+    "JS Arrays.md",
+    "JS Mathematical Operations.md"
   ]
 }

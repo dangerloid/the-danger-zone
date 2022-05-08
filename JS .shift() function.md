@@ -2,7 +2,7 @@
 aliases: .shift()
 tags: study
 ---
-[[JS Arrays]]
+[[JS Methods]], [[JS Arrays]]
 # JS .shift() function
 
 `.shift()` is similar to `.pop()`, but it removes the first element of an array.
