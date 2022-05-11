@@ -14,3 +14,6 @@ tags: moc
 [[LYT Kit v5]]
 [[Obsidian]]
 [[LaTeX]]
+
+### related notes
+[[PKM Primer - An Introduction to Personal Knowledge Management for Creatives]]

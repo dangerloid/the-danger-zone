@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "548e409e4b87e2f7",
+        "id": "b171cf73c99cfbe3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JS Promises.md",
+            "file": "1  dailies/2022-05-11.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Promises.md",
+                "file": "1  dailies/2022-05-11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Promises.md"
+                "file": "1  dailies/2022-05-11.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JS Promises.md",
+                "file": "1  dailies/2022-05-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "548e409e4b87e2f7",
+  "active": "b171cf73c99cfbe3",
   "lastOpenFiles": [
-    "JS Promises.md",
+    "1  dailies/2022-05-11.md",
+    "1  dailies/2022-05-10.md",
+    "JS Debugging - Prevent Infinite Loops with a Valid Terminal Condition.md",
     "JavaScript.md",
-    "JS Import and Export.md",
-    "JS Methods.md",
-    "JS Iteration.md",
-    "JS Switch Statements.md",
-    "JS Data Comparison.md",
-    "JS Functions.md",
-    "JS Arrays.md",
-    "JS Mathematical Operations.md"
+    "JS Debugging - Use Caution When Reinitializing Variables Inside a Loop.md",
+    "JS Debugging - Catch Off By One Errors When Using Indexing.md",
+    "JS Debugging - Catch Arguments Passed in the Wrong Order When Calling a Function.md",
+    "JS Debugging - Catch Missing Open and Closing Parenthesis After a Function Call.md",
+    "JS Debugging - Catch Use of Assignment Operator Instead of Equality Operator.md",
+    "JS Debugging - Catch Mixed Usage of Single and Double Quotes.md"
   ]
 }

@@ -23,7 +23,7 @@ source:
 ### personal
 
 - 02 - [[Projects]]
-- 03 - [[PKM]]
+- 03 - [[Personal Knowledge Manager]]
 
 ### other
 - 04 - [[People]]

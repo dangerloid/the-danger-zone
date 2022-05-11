@@ -1,5 +1,5 @@
 ---
-aliases: function, else, if, else if, switch
+aliases: function, else, if, else if
 tags: study
 ---
 [[JavaScript]]

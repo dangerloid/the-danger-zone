@@ -5,8 +5,12 @@ tags: moc
 [[Computer Science|Computer Science]]
 # Web Development MOC
 
-[[Jamstack]]
+## front-end
 [[HTML]]
 [[CSS]]
 [[JavaScript]]
+
+---
+
 [[Static Site Generators]]
+[[Jamstack]]

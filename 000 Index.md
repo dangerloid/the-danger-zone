@@ -17,23 +17,8 @@ this is where i try to make sense of things.
 ### personal
 
 - 02 - [[002 Projects|Projects]]
-- 03 - [[PKM]]
+- 03 - [[003 Personal Knowledge Manager | Personal Knowledge Manager]]
 
 ### other
 - 04 - [[004 People|People]]
-- 05 - [[Meta]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 05 - [[005 Meta|Meta]]
