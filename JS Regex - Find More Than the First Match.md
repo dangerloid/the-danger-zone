@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Find More Than the First Match
 So far, every regex I've written returned the first match it found.
 

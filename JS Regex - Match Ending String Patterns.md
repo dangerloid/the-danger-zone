@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Ending String Patterns
 You can search the end of strings using the dollar sign at the end of the regex.
 

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Debugging]]
 # JS Debugging - Catch Misspelled Variable and Function Names
 The `console.log()` and `typeof` methods are the two primary ways to check intermediate values and types of program output.
 

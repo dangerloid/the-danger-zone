@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Characters that Occur One or More Times
 Sometimes you need to match a character or group of characters that appear one or more times in a row. To do that you use the `+` sign.
 

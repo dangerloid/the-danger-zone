@@ -2,7 +2,7 @@
 tags: seed/article/blog
 ---
 
-author: [[The Sweet Setup|Mike Schmitz]]
+author: Mike Schmitz from [[The Sweet Setup]]
 topics: [[Personal Knowledge Manager]], [[Knowledge Work]], [[Note Taking]], 
 source: [PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives)
 

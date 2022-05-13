@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # JS Import and Export
 ## create a module script
 JavaScript started with a small role to play on an otherwise mostly [[HTML]] web.

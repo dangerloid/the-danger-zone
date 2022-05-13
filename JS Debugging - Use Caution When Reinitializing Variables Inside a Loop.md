@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Debugging]]
 # JS Debugging - Use Caution When Reinitializing Variables Inside a Loop
 Sometimes it's necessary to save information, increment counters, or re-set variables within a loop.
 A potential issue is when variables either should be reinitialized and aren't and viceversa.

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Characters that Occur Zero or More Times
 There's also an option that matches characters that occur zero or more times. You use the asterisk for that.
 

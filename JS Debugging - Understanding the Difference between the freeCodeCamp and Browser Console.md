@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Debugging]]
 # JS Debugging - Understanding the Difference between the freeCodeCamp and Browser Console
 The console in freeCodeCamp's challenges behaves differently from the browser console.
 There are many methods to use with `console` to output messages. The freeCodeCamp console will only output `log` messages.

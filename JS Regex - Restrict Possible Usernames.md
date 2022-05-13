@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Restrict Possible Usernames
 You need to check usernames in a database. Here are some simple rules that users have to follow when creating an username:
 1. Usernames can only use alpha-numeric characters

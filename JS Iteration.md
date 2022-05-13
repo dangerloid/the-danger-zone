@@ -2,7 +2,7 @@
 aliases: while, for, loops, loop
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # JS Iteration
 You can run the same code multiple times by using a loop.
 ## iterate with javascript while loops

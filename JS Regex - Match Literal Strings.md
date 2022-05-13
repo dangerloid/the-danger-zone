@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Literal Strings
 The regex from before searched for a literal match of the string `Hello`.
 

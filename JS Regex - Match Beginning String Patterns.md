@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Beginning String Patterns
 Carets are used to negate character sets. Outside of a character set the caret is used to search for patterns at the beginning of strings.
 

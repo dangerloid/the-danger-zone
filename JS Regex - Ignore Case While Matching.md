@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Ignore Case While Matching
 Case is the difference between uppercase letters and lowercase letters.
 You can match both cases with the flag `i`, which is put at the end of the regex: `/ignorecase/i`.

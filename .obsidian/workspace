@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b171cf73c99cfbe3",
+        "id": "d5644910b96422f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1  dailies/2022-05-11.md",
+            "file": "JS Object Oriented Programming.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "html",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36d9b3a4a89e87f4",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1  dailies/2022-05-11.md",
+                "file": "JS Object Oriented Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1  dailies/2022-05-11.md"
+                "file": "JS Object Oriented Programming.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1  dailies/2022-05-11.md",
+                "file": "JS Object Oriented Programming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,20 +189,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b171cf73c99cfbe3",
+  "active": "d5644910b96422f2",
   "lastOpenFiles": [
-    "1  dailies/2022-05-11.md",
-    "1  dailies/2022-05-10.md",
-    "JS Debugging - Prevent Infinite Loops with a Valid Terminal Condition.md",
+    "JS Object Oriented Programming.md",
     "JavaScript.md",
-    "JS Debugging - Use Caution When Reinitializing Variables Inside a Loop.md",
-    "JS Debugging - Catch Off By One Errors When Using Indexing.md",
-    "JS Debugging - Catch Arguments Passed in the Wrong Order When Calling a Function.md",
-    "JS Debugging - Catch Missing Open and Closing Parenthesis After a Function Call.md",
-    "JS Debugging - Catch Use of Assignment Operator Instead of Equality Operator.md",
-    "JS Debugging - Catch Mixed Usage of Single and Double Quotes.md"
+    "Web Development.md",
+    "004 People.md",
+    "002 Projects.md",
+    "001 Interests.md",
+    "Knowledge Bases.md",
+    "Note Taking.md",
+    "Zettelkasten method.md",
+    "Linguistics.md"
   ]
 }

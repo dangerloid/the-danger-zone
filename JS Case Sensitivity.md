@@ -2,7 +2,7 @@
 aliases: camelCase
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Case Sensitivity
 
 Capitalization matters in variable names.

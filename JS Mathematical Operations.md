@@ -2,7 +2,7 @@
 aliases: 
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Mathematical Operations
 
 ## Basic Math

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # JS Arrays
 
 Arrays allow you to store several pieces of data in one place.

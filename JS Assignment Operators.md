@@ -2,7 +2,7 @@
 aliases: =
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Assignment Operator
 
 The assignment operator is the equal `=` sign. It's used to assign a value to a variable.

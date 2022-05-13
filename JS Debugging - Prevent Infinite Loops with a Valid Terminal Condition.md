@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Debugging]]
 # JS Debugging - Prevent Infinite Loops with a Valid Terminal Condition
 Loops are great tools when you need your program to run a code block a certain number of times until a condition is met, but they need a terminal condition that ends the looping. Infinite loops can freeze or crash the browser.
 

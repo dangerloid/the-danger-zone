@@ -2,7 +2,7 @@
 aliases: .match()
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Extract Matches
 We've been only checking if a pattern exists or not within a string. You can also extract the actual matches with the `.match()` method.
 

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Whitespace
 You can search for whitespace using `\s`. This pattern not only matches whitespace, but also carriage return, tab, form feed and newline.
 It's similar to `[ \r\t\f\n\v]`.

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Single Character Not Specified
 You can also create a set of characters that you don't want to match. They are called negated characters.
 

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Specify Only the Lower Number of Matches
 Sometimes you only want to specify the lower number of matches with no upper limit.
 To specify the lower number of patterns, keep the first number followed by a comma.

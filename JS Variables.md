@@ -2,7 +2,7 @@
 aliases: [Variable, var, let, const]
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Variables
 
 Variables can store data dynamically (not exclusive to JavaScript. Most if not all programming languages have them).

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match a Literal String with Different Possibilities
 The regex `/coding/` is going to search for the pattern `coding` in a string.
 It's powerful for searching single strings, but is limited to only one pattern. You can search for multiple patterns using the alternator or `OR` operator `|`.

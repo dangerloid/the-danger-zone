@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Letters of the Alphabet
 You can use character sets to specify a group of characters to match, but it's inefficient when you need to match a large range of characters.
 There's a built-in feature that makes it simple: inside a character set you can use a hyphen to define a character range.

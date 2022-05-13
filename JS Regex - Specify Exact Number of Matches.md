@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Specify Exact Number of Matches
 To specify a specific number of patterns, just have one number between the curly braces.
 

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Check for All or None
 Sometimes the patterns you want to search for may have parts of it that may not exist. However it may be important to check for them nonetheless.
 

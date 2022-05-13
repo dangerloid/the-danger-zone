@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match All Non-Numbers
 The shortcut for non-digit characters is `\D`. It's equal to `[^0-9]`.
 

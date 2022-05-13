@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Data Types
 
 There are eight different data types:

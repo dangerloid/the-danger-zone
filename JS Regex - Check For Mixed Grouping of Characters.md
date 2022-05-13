@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Check For Mixed Grouping of Characters
 Sometimes we want to check for groups of characters using a regular expression and to achieve that we use parentheses.
 

@@ -5,18 +5,10 @@ extensions: html
 ---
 [[Web Development]]
 # HTML MOC
-
-
-[[HTML Main Tag]]
-[[HTML Section Tag]]
-[[HTML Figure Tag]]
-[[HTML Figcaption Tag]]
-[[HTML Article Tag]]
-
-[[HTML Link Tag]]
+## w3schools
 
 ---
-
-References:
+[[MDN Web Docs#HTML]]
+### references:
 [freeCodeCamp](https://www.freecodecamp.org/learn/)
 [W3Schools](https://www.w3schools.com/)

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # Comments
 
 Comments bits in the code that do nothing. They serve as notes, without interfering with the code itself.

@@ -2,7 +2,7 @@
 aliases: switch, case, break
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # JS Switch Statements
 A `switch` statement tests a value and can have multiple `case` statements which define various possible values. Statements are executed from the first matched `case` value until a `break` is encountered.
 

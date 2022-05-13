@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Debugging]]
 # JS Debugging - Use the JavaScript Console to Check the Value of a Variable
 Both Chrome and Firefox have excellent JavaScript consoles (DevTools) for debugging JavaScript.
 You can find DevTools in your browser's menu.

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Reuse Patterns Using Capture Groups
 Say you want to match a word that occurs multiple times. You could use `/row row row/`, but what if you don't know the specific word repeated? Capture groups can be used to find repeated substrings.
 

@@ -2,7 +2,7 @@
 aliases: .test()
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Using the Test Method
 Regular expressions are used in programming languages to match parts of strings.
 

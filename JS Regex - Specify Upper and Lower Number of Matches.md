@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Specify Upper and Lower Number of Matches
 You can use the `+` sing to look for [[JS Regex - Match Characters that Occur One or More Times|one or more characters]] and the asterisk to look for [[JS Regex - Match Characters that Occur Zero or More Times|zero or more characters]]. But sometimes you need to match a certain range of patterns.
 

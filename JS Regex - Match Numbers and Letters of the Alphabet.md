@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Numbers and Letters of the Alphabet
 Using the hyphen to match a range of characters is not limited to letters.
 

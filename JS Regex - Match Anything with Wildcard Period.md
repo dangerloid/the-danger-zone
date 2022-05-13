@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Anything with Wildcard Period
 Sometimes you won't know the exact characters in your patterns.
 

@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match All Numbers
 The shortcut to look for digits is `\d`. It's equal to `[0-9]`.
 

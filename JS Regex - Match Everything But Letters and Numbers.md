@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Everything But Letters and Numbers
 You can search for the opposite with `\W`. It's equal to `[^A-Za-z0-9_]`.
 

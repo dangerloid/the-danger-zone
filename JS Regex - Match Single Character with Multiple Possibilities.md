@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Single Character with Multiple Possibilities
 Literal and wildcard characters in regular expressions are the extremes, where one finds exact matches and the other matches everything.
 

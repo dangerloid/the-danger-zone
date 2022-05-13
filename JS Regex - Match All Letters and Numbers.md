@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match All Letters and Numbers
 Using character classes, you can search for every letter of the alphabet with `[a-z]`. This particular character class is common enough that there's a shortcut for it.
 

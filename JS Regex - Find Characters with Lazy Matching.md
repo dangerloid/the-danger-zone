@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Find Characters with Lazy Matching
 In regular expressions, a greedy match finds the longest possible part of a string that fits the regex pattern and returns it as a match.
 The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.

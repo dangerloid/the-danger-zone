@@ -11,6 +11,6 @@ tags: moc
 [[JavaScript]]
 
 ---
-
+[[MDN Web Docs]]
 [[Static Site Generators]]
 [[Jamstack]]

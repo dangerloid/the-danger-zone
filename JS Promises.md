@@ -1,8 +1,8 @@
 ---
-aliases: try, catch, Promise
+aliases: then, catch, Promise
 tags: study
 ---
-[[JavaScript]]
+[[JS Basics + ES6 Features]]
 # JS Promises
 A promise in JavaScript is used to make a promise to do something, usually asynchronously. When the task completes, you either fulfill your promise or fail to do so.
 

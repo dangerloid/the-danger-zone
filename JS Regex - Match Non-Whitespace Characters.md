@@ -2,7 +2,7 @@
 aliases:
 tags: study
 ---
-[[JavaScript]]
+[[JS Regular Expressions]]
 # JS Regex - Match Non-Whitespace Characters
 The shorthand for non-whitespace characters is `\S`. It's similar to `[^ \r\t\f\n\v]`.
 
